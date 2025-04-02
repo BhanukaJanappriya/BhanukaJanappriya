@@ -1,29 +1,29 @@
-<h1 align="center">Hi 👋, I'm Bhanuka Janappriya</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bhanuka Janappriya</h1>
 <h2 align="center">A passionate full stack developer from Sri Lanka</h2>
 <p align="center">
   <em>
    <h3> 🎓 Undergraduate Student | University of Peradeniya
-💻 Computer Science & Image Processing Enthusiast</h3>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Computer Science & Image Processing Enthusiast</h3>
 
 <p align="center">I'm passionate about software development, image processing, and problem-solving. Currently, I'm working on projects involving full-stack web development, Arduino-based systems, and image-based turbidity measurement.</p>
 
 <table align="center">
   <tr>
-    <td><li align="left">Languages & Technologies: Python, C, C++, Java, JavaScript (Node.js, TypeScript, React), MySQL, HTML, CSS, WordPress.
-</li></td>
+    <td align="left"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><strong>Languages & Technologies:</strong> Python, C, C++, Java, JavaScript (Node.js, TypeScript, React), MySQL, HTML, CSS, WordPress.
+</td>
   </tr>
   <tr>
-    <td><li align="left">Interests: Algorithm design, computer architecture, statistics, and mental health-related tech solutions.
-</li></td>
+    <td align="left"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><strong>Interests:</strong> Algorithm design, computer architecture, statistics, and mental health-related tech solutions.
+</td>
   </tr>
   <tr>
-    <td><li align="left">Projects: Smart Parking System, Turbidity Meter, SoulCare Web App (Mental Health Management).
-</li></td>
+    <td align="left"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><strong>Projects:</strong>Smart Parking System, Turbidity Meter, SoulCare Web App (Mental Health Management).
+</td>
   </tr>  
 </table>
 
 
-🚀 Open to collaboration on innovative projects!
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">Open to collaboration on innovative projects!
   </em> 
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhanukajanappriya&label=Profile%20views&color=0e75b6&style=flat" alt="bhanukajanappriya" /> </p>
