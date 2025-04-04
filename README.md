@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bhanuka Janappriya</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Bhanuka Janappriya</h1>
 <h2 align="center">A passionate full stack developer from Sri Lanka</h2>
 <p align="center">
   <em>
