@@ -59,4 +59,13 @@
 </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanukajanappriya&show_icons=true&locale=en" alt="bhanukajanappriya" /></p>
+  
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508](https://github.com/BhanukaJanappriya">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BhanukaJanappriya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BhanukaJanappriya&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
