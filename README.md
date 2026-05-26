@@ -29,7 +29,7 @@
 ---
 <h3 align="center">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="center">
-<a href="https://linkedin.com/in/bhanuka nambuwasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanuka nambuwasam" height="30" width="50" /></a>
+<a href=https://www.linkedin.com/in/bhanuka-janappriya-nambuwasam-3175582a7/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanuka nambuwasam" height="30" width="50" /></a>
 </p>
 
 ---
