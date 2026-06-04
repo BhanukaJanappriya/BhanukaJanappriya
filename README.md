@@ -16,7 +16,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhanukajanappriya&label=Profile%20views&color=0e75b6&style=flat" alt="bhanukajanappriya" /> </p>
 
 ---
-- 🔭 I’m currently working on **SoulCare stress detection and medication**
+- 🔭 I’m currently working on **PROSE : Probabilistic Symbolic Explainer** my final year research
 
 - 🌱 I’m currently learning **BSc.(Honours) in Computer Science**
 
