@@ -1,14 +1,17 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Bhanuka Janappriya</h1>
-<h2 align="center">A passionate full stack developer from Sri Lanka</h2>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=A+passionate+full+stack+developer;Undergraduate+at+University+of+Peradeniya;Image+Processing+Enthusiast;Based+in+Sri+Lanka" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="center">
   <em>
    <h3> 🎓 Undergraduate Student | University of Peradeniya
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Computer Science & Image Processing Enthusiast</h3>
 
 <p align="center">I'm passionate about software development, image processing, and problem-solving. Currently, I'm working on projects involving full-stack web development, Arduino-based systems, and image-based turbidity measurement.</p>
-
-
-
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">Open to collaboration on innovative projects!
   </em> 
@@ -29,11 +32,11 @@
 ---
 <h3 align="center">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="center">
-<a href=https://www.linkedin.com/in/bhanuka-janappriya-nambuwasam-3175582a7/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanuka nambuwasam" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/bhanuka-janappriya-nambuwasam-3175582a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanuka nambuwasam" height="30" width="50" /></a>
 </p>
 
 ---
-<h2 align="center">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2></h2>
+<h2 align="center">Languages and Tools: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>    
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
@@ -63,9 +66,4 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508](https://github.com/BhanukaJanappriya">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BhanukaJanappriya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BhanukaJanappriya&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
+<a href="https://github.com/BhanukaJanappriya
