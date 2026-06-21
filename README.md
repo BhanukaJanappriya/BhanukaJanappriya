@@ -72,6 +72,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BhanukaJanappriya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BhanukaJanappriya&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BhanukaJanappriya&theme=algolia&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BhanukaJanappriya&repo=bhanuka_janappriya_portfolio&theme=algolia&show_owner=true"/>
-</a>
+  </a>
 </p>
