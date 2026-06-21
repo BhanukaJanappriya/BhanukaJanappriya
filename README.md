@@ -19,9 +19,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhanukajanappriya&label=Profile%20views&color=0e75b6&style=flat" alt="bhanukajanappriya" /> </p>
 
 ---
-- 🔭 I’m currently working on **PROSE : PRObabilistic Symbolic Explainer** (my final year research)
+- 🔭 I'm currently working on **PROSE : PRObabilistic Symbolic Explainer** (my final year research)
 
-- 🌱 I’m currently learning **BSc.(Honours) in Computer Science**
+- 🌱 I'm currently learning **BSc.(Honours) in Computer Science**
 
 - 👨‍💻 All of my projects are available at [https://www.thecn.com/BN481](https://www.thecn.com/BN481)
 
@@ -50,7 +50,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
-  <a href=" https://www.photoshop.com" target="_blank" rel="noreferrer">
+  <a href="https://www.photoshop.com" target="_blank" rel="noreferrer">
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/></a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
@@ -61,21 +61,17 @@
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwindcss" width="50" height="50"/>
 </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a> 
+</p>
 
 ---  
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-
-
 <p align="center">
-
-<a href="https://github.com/AVS1508](https://github.com/BhanukaJanappriya">
-
+<a href="https://github.com/BhanukaJanappriya">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BhanukaJanappriya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BhanukaJanappriya&layout=compact&langs_count=8&theme=algolia"/>
-
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BhanukaJanappriya&theme=algolia&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BhanukaJanappriya&repo=bhanuka_janappriya_portfolio&theme=algolia&show_owner=true"/>
 </a>
-
 </p>
