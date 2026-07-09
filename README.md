@@ -33,7 +33,7 @@
 <h3 align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/bhanuka-janappriya-nambuwasam-3175582a7/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:bhanukajanappriya2001@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="mailto:bhanukajanappriya2001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="28" /></a>
 </p>
 
 ---
@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BhanukaJanappriya&theme=algolia&hide_border=false"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=BhanukaJanappriya&theme=algolia&hide_border=false"/>
 </p>
 
 <p align="center">
@@ -83,11 +83,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BhanukaJanappriya&theme=algolia&no-frame=true&row=1&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=BhanukaJanappriya&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BhanukaJanappriya/BhanukaJanappriya/output/github-contribution-grid-snake.svg" alt="snake animation" width="90%"/>
 </p>
+<!-- ⬆️ This will render once you add the .github/workflows/snake.yml action to your BhanukaJanappriya/BhanukaJanappriya repo (see snake.yml provided). It generates the "output" branch automatically. -->
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B4F73,100:0E75B6&height=100&section=footer" />
